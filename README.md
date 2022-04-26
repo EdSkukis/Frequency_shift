@@ -1,13 +1,13 @@
 # Frequency_shift
-##path: 
+## path: 
 The location where the files from the ekperemet are located
-##File name:
+## File name:
 file_name_XXN.txt or file_name_XXkN.txt
 XXN   -load N
 XXkN  -load kN
 
 ## Stuctur files
-###Export from PSV 400 to ASCII
+### Export from PSV 400 to ASCII
 
 1.Source File Name:	D100H200L1_07-3303N
 2.Signal:	FFT - Vib Velocity - Magnitude
